@@ -1,0 +1,34 @@
+body {
+    background-image: url("imágenes/sendokai 3.jfif");
+    background-size: cover; 
+    background-color: rgb(49, 108, 143);
+    color: black; 
+    font-size: 40px; 
+    font-family:'Times New Roman'; 
+    font-weight: 200 ; 
+    font-style: italic; 
+    text-align: center; 
+    margin:50px ; 
+    margin-top: 40px; 
+    margin-bottom: 40px; 
+    padding: 20px; 
+}
+img{ width: 500px; 
+    border: 5px solid black; 
+    box-shadow:5px 5px 15px rgb(18, 18, 246) ;
+    }
+h1 { font-weight: 600; 
+    }
+.imagenypersonajes {display: flex ; 
+    align-items: center; 
+    align-content: first baseline;
+    gap: 50px ; 
+    }
+.tarjeta {
+    background-color: rgba(94, 208, 250, 0.5);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px black;
+    margin: 100px ;
+    }
+
