@@ -13,12 +13,13 @@ body {
     margin-bottom: 40px; 
     padding: 20px; 
 }
-img{ width: 500px; 
-    border: 5px solid black; 
-    box-shadow:5px 5px 15px rgb(18, 18, 246) ;
-    max-width: 100%;
+img{  width: 100%;
+    max-width: 500px;
+    border: 5px solid black;
+    box-shadow: 5px 5px 15px rgb(18, 18, 246);
     height: auto;
-    }
+}
+
 h1 { font-weight: 600; 
     }
 .imagenypersonajes {display: flex ; 
